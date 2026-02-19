@@ -29,7 +29,7 @@
 
 - 출퇴근 시간대 승하차 집중도 파생 변수 생성
 - K-means 군집 분석 수행
-- 주거/업무/복합 지역 3가지 유형으로 군집화
+- 주거/상업/복합 지역 3가지 유형으로 군집화
 
 **📁 Notebook**: [seoul_subway_utilization.ipynb](./02_Seoul_Subway/)
 
@@ -70,4 +70,4 @@
 ## 📫 Contact
 - **Email**: yumin72110@gmail.com
 - **GitHub**: [@yuminlee8](https://github.com/yuminlee8)
-- **LinkedIn**: [@yuminlee8] (https://www.linkedin.com/in/yuminlee8/)
+- **LinkedIn**: [@yuminlee8](https://www.linkedin.com/in/yuminlee8/)
