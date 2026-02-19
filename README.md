@@ -70,4 +70,4 @@
 ## 📫 Contact
 - **Email**: yumin72110@gmail.com
 - **GitHub**: [@yuminlee8](https://github.com/yuminlee8)
-- **LinkedIn**: (https://www.linkedin.com/in/yuminlee8/)
+- **LinkedIn**: [@yuminlee8] (https://www.linkedin.com/in/yuminlee8/)
